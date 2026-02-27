@@ -79,14 +79,23 @@ alt="GitHub Streak" />
 </div>
 
 
-<h2 align="center">🏙️ GitHub Activity</h2>
+<!-- ================== GITHUB ACTIVITY SKYLINE ================== -->
+
+<h2 align="center">🏙️ GitHub Activity Skyline</h2>
 
 <p align="center">
-
-<img width="90%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=God-Incarnate&theme=tokyo-night&area=true&hide_border=true"/>
-
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=God-Incarnate&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=38bdae&point=f85149" 
+    width="90%" 
+    alt="GitHub Contribution Skyline Graph"
+  />
 </p>
+
+<p align="center">
+  <i>Building scalable systems one commit at a time 🚀</i>
+</p>
+
+<!-- ============================================================= -->
 
 </br>
 
