@@ -15,7 +15,7 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 
 </p>
 
-<h3 align="left">--------------||📘Currently Learning📘||--------------------------------||🔥Profile Stats🔥||--------------------------</h3>
+<h3 align="left">------------||📘Currently Learning📘||------------------------------||🔥Profile Stats🔥||------------------------</h3>
 
 <div align="center">
 <table cellpadding="0" cellspacing="0" style="border:0;">
