@@ -16,22 +16,14 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 </p>
 
 <table width="100" align='center'>
-<tr>
+<th>
  <td align='center'>
-    <b>Currently learning</b>
+    <b><u>Currently learning</u></b>
  </td>
  <td align='center' width="60">
     <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
  </td>
-</tr>
- <tr>
- <td align='center'>
-    <b>Currently learning</b>
- </td>
- <td align='center' width="60">
-    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
- </td>
-</tr>
+</th>
  <tr>
  <td align='center'>
     <b>Data Structures and Algorithm</b>
