@@ -1,7 +1,7 @@
 # Prashant_Verma
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
-_Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.linkedin.com/in/prashant-verma-0a1a36169).You can see my professional profile below._  
+_Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.linkedin.com/in/prashant-verma-0a1a36169). You can see my professional profile below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
@@ -21,7 +21,47 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
     <b>Currently learning</b>
  </td>
  <td align='center' width="60">
-     <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
+    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
+ </td>
+</tr>
+ <tr>
+ <td align='center'>
+    <b>Currently learning</b>
+ </td>
+ <td align='center' width="60">
+    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
+ </td>
+</tr>
+ <tr>
+ <td align='center'>
+    <b>Data Structures and Algorithm</b>
+ </td>
+ <td align='center' width="60">
+    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
+ </td>
+</tr>
+ <tr>
+ <td align='center'>
+    <b>System Design</b>
+ </td>
+ <td align='center' width="60">
+    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
+ </td>
+</tr>
+ <tr>
+ <td align='center'>
+    <b>Design Patterns</b>
+ </td>
+ <td align='center' width="60">
+    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
+ </td>
+</tr>
+ <tr>
+ <td align='center'>
+    <b>LLD & HLD</b>
+ </td>
+ <td align='center' width="60">
+    <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
  </td>
 </tr>
 </table>
