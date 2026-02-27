@@ -15,10 +15,12 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 
 </p>
 
-<h3 align="center">📘 Currently Learning</h3>
+<h3 align="left">--------------||📘Currently Learning📘||--------------------------------||🔥Profile Stats🔥||--------------------------</h3>
 
 <div align="center">
-
+<table cellpadding="0" cellspacing="0" style="border:0;">
+ <tr>
+  <td>
 <table width="70%" style="table-layout:fixed; border-collapse:collapse;">
 <tr>
     <td align="center" width="50%">
@@ -30,7 +32,7 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
         alt="Data Structures and Algorithms"/>
     </td>
 </tr>
-
+ 
 <tr>
     <td align="center">
         <b>System Design</b>
@@ -65,9 +67,32 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 </tr>
 
 </table>
+</td>
+<td>
+ <!-- Streak Stats -->
+<img height="200em" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=God-Incarnate&theme=tokyonight&hide_border=true" 
+alt="GitHub Streak" /> 
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- ================== GITHUB STATS SECTION ================== -->
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img width="90%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=God-Incarnate&theme=tokyo-night&hide_border=true" 
+alt="GitHub Activity Graph"/>
 
 </div>
 
+<!-- =========================================================== -->
 </br>
 
 <h2 align="center"><i>Languages and Tools</i></h2>
