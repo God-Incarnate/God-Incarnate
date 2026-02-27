@@ -1,7 +1,7 @@
 # Prashant_Verma
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
-_Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.linkedin.com/in/prashant-verma-0a1a36169). You can see my professional profile below._  
+_Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/prashant-verma-0a1a36169). You can see my professional profile below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
@@ -16,14 +16,14 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 </p>
 
 <table width="100" align='center'>
-<th>
+<tr>
  <td align='center'>
     <b><u>Currently learning</u></b>
  </td>
  <td align='center' width="60">
     <img width="6001" height="4001" alt="image" src="https://github.com/user-attachments/assets/7fb8a913-2071-4f6a-a8d2-086ec8f913d0" />
  </td>
-</th>
+</tr>
  <tr>
  <td align='center'>
     <b>Data Structures and Algorithm</b>
@@ -62,97 +62,101 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 
 <h2 align="center"><i>Languages and Tools</i></h2>
 
-<table style="width:100%">
+<div align="center">
+
+<table width="90%" style="table-layout:fixed; border-collapse:collapse;">
 <tr>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
+    <td align="center" width="20%" height="100">
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Programming Language"/>
     </td>
-    <td align="center" height="100">
-        <img style="background:black" height="70" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"/>
+    <td align="center" width="20%" height="100">
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot Framework"/>
     </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"/>
+    <td align="center" width="20%" height="100">
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate ORM"/>
     </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
+    <td align="center" width="20%" height="100">
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5"/>
     </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
+    <td align="center" width="20%" height="100">
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3"/>
     </td>
 </tr>
 
 <tr>
     <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Programming Language"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xml.svg"/>
+        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xml.svg" alt="XML"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Database"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Database"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"/>
-    </td>
-</tr>
-
-<tr>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg"/>
-    </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
-    </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"/>
-    </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
-    </td>
-    <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg"/>
+        <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="Grafana Monitoring Tool"/>
     </td>
 </tr>
 
 <tr>
     <td align="center" height="100">
-        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/confluence.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="Elasticsearch"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bitbucket.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA IDE"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachejmeter.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Version Control"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="Jira Issue Tracking"/>
     </td>
 </tr>
 
 <tr>
     <td align="center" height="100">
-        <img height="70" src="https://images.seeklogo.com/logo-png/33/1/checkmarx-logo-png_seeklogo-335328.png"/>
+        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/confluence.svg" alt="Confluence Documentation Tool"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg"/>
+        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bitbucket.svg" alt="Bitbucket Repository"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png"/>
+        <img height="70" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachejmeter.svg" alt="Apache JMeter"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg"/>
+        <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube Code Quality Tool"/>
     </td>
     <td align="center" height="100">
-        <img height="70" src="https://cdn.worldvectorlogo.com/logos/atlassian.svg"/>
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Cloud"/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center" height="100">
+        <img height="70" src="https://images.seeklogo.com/logo-png/33/1/checkmarx-logo-png_seeklogo-335328.png" alt="Checkmarx Security Tool"/>
+    </td>
+    <td align="center" height="100">
+        <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="JUnit Testing Framework"/>
+    </td>
+    <td align="center" height="100">
+        <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" alt="Mockito Testing Framework"/>
+    </td>
+    <td align="center" height="100">
+        <img height="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" alt="GitHub Copilot"/>
+    </td>
+    <td align="center" height="100">
+        <img height="70" src="https://cdn.worldvectorlogo.com/logos/atlassian.svg" alt="Atlassian Tools"/>
     </td>
 </tr>
 </table>
+
+</div>
 
 
 
