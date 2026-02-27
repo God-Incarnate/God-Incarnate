@@ -79,20 +79,15 @@ alt="GitHub Streak" />
 </div>
 
 
-<!-- ================== GITHUB STATS SECTION ================== -->
+<h2 align="center">🏙️ GitHub Activity</h2>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<p align="center">
 
-<div align="center">
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=God-Incarnate&theme=tokyo-night&area=true&hide_border=true"/>
 
-<!-- Activity Graph -->
-<img width="90%" 
-src="https://github-readme-activity-graph.vercel.app/graph?username=God-Incarnate&theme=tokyo-night&hide_border=true" 
-alt="GitHub Activity Graph"/>
+</p>
 
-</div>
-
-<!-- =========================================================== -->
 </br>
 
 <h2 align="center"><i>Languages and Tools</i></h2>
