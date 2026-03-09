@@ -87,7 +87,7 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 <td>
  <!-- Streak Stats -->
 <img height="200em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=God-Incarnate&theme=tokyonight&hide_border=true" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=God-Incarnate&theme=tokyonight&hide_border=true&cache_seconds=0" 
 alt="GitHub Streak" /> 
 </td>
 </tr>
