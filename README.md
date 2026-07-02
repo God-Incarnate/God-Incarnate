@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
-_Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/prashant-verma-0a1a36169) . Am a results-driven Software Engineer with strong expertise in Java, Spring Boot, distribute[...]
+_Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/prashant-verma-0a1a36169) . Am a results-driven Software Engineer with strong expertise in Java, Spring Boot, distributed systems, and database design. Known for being a versatile developer who can quickly adapt across backend development, testing, performance optimization, and DevOps workflows. Experienced in building scalable, high-quality applications using modern tools such as Git, IntelliJ, JUnit, Mockito, SonarQube, and cloud platforms like Azure. Passionate about clean code, efficient algorithms, and continuous learning, with a proven ability to solve complex problems and deliver reliable solutions in fast-paced environments.
  You can see my professional profile below._  
 
 <!-- ================== COMPETITIVE PROGRAMMING BADGES ================== -->
