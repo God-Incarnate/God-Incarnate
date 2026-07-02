@@ -26,20 +26,17 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
  
 <table width="100" align='center'>
 <tr>
-    <td align='center' width="60">
-        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    <td align='center' width="200">
+        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" width="200"></a>
     </td>
- <td align='center' width="60">
-        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+ <td align='center' width="200">
+        <a href="https://www.codechef.com/users/god_incarnate"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="200"></a>
     </td>
- <td align='center' width="60">
-        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+ <td align='center' width="200">
+        <a href="https://www.hackerrank.com/profile/god_incarnate"><img src="https://user-images.githubusercontent.com/42386287/85514969-3dc5ce80-b61a-11ea-8e1a-1693448bb148.png" width="200"></a>
     </td>
- <td align='center' width="60">
-        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
- <td align='center' width="60">
-        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+ <td align='center' width="200">
+        <a href="https://leetcode.com/u/GodsIncarnate/"><img src="https://support.leetcode.com/hc/theming_assets/01HZKM7B6424Z4VVY5BRCFP0Z3" width="200"></a>
     </td>
 </tr>
 </table>
