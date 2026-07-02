@@ -8,18 +8,17 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 <h2 align="center">🏆 Competitive Programming Badges</h2>
 
 <div align="center">
-<table width="80%" style="table-layout:fixed; border-collapse:collapse;">
-<tr>
-    <td align="center" width="50%">
-        <h3>Java Mastery</h3>
-        <img height="180" src="java(5 star)Hackerrank.jpeg" alt="Java 5 Star Badge"/>
-    </td>
-    <td align="center" width="50%">
-        <h3>CodeChef Achievement</h3>
-        <img height="180" src="CodeChefBadge (1).png" alt="CodeChef 50 Problems Badge"/>
-    </td>
-</tr>
-</table>
+
+<a href="#">
+  <img src="java-badge.png" height="220" alt="Java 5 Star Badge"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+  <img src="codechef-badge.png" height="220" alt="CodeChef Badge"/>
+</a>
+
 </div>
 
 </br>
