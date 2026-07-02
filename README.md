@@ -10,13 +10,11 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 <div align="center">
 
 <a href="#">
-  <img src="java(5 star)Hackerrank.jpeg" height="220" alt="Java 5 Star Badge"/>
+  <img src="java(5 star)Hackerrank.jpeg" height="180" alt="Java 5 Star Badge"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;
 <a href="#">
-  <img src="CodeChefBadge (1).png" height="220" alt="CodeChef Badge"/>
+  <img src="CodeChefBadge (1).png" height="180" alt="CodeChef Badge"/>
 </a>
 
 </div>
