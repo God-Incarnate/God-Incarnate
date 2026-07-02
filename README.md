@@ -29,6 +29,18 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
     <td align='center' width="60">
         <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
+ <td align='center' width="60">
+        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+ <td align='center' width="60">
+        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+ <td align='center' width="60">
+        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+ <td align='center' width="60">
+        <a href="www.linkedin.com/in/prashant-verma-0a1a36169"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
 </tr>
 </table>
 
