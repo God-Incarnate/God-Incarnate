@@ -12,11 +12,11 @@ _Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/
 <tr>
     <td align="center" width="50%">
         <h3>Java Mastery</h3>
-        <img height="180" src="https://via.placeholder.com/200x220/FDD835/000?text=Java+5%E2%98%85" alt="Java 5 Star Badge"/>
+        <img height="180" src="java(5 star)Hackerrank.jpeg" alt="Java 5 Star Badge"/>
     </td>
     <td align="center" width="50%">
         <h3>CodeChef Achievement</h3>
-        <img height="180" src="https://via.placeholder.com/200x220/1a1a1a/fff?text=50+Problems%0ACodeChef" alt="CodeChef 50 Problems Badge"/>
+        <img height="180" src="CodeChefBadge (1).png" alt="CodeChef 50 Problems Badge"/>
     </td>
 </tr>
 </table>
