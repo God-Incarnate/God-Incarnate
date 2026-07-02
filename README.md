@@ -1,7 +1,29 @@
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
-_Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/prashant-verma-0a1a36169) . Am a results-driven Software Engineer with strong expertise in Java, Spring Boot, distributed systems, and database design. Known for being a versatile developer who can quickly adapt across backend development, testing, performance optimization, and DevOps workflows. Experienced in building scalable, high-quality applications using modern tools such as Git, IntelliJ, JUnit, Mockito, SonarQube, and cloud platforms like Azure. Passionate about clean code, efficient algorithms, and continuous learning, with a proven ability to solve complex problems and deliver reliable solutions in fast-paced environments.
+_Hello there, this is **Prashant Verma**. Working as [SDE] (www.linkedin.com/in/prashant-verma-0a1a36169) . Am a results-driven Software Engineer with strong expertise in Java, Spring Boot, distribute[...]
  You can see my professional profile below._  
+
+<!-- ================== COMPETITIVE PROGRAMMING BADGES ================== -->
+
+<h2 align="center">🏆 Competitive Programming Badges</h2>
+
+<div align="center">
+<table width="80%" style="table-layout:fixed; border-collapse:collapse;">
+<tr>
+    <td align="center" width="50%">
+        <h3>Java Mastery</h3>
+        <img height="180" src="https://via.placeholder.com/200x220/FDD835/000?text=Java+5%E2%98%85" alt="Java 5 Star Badge"/>
+    </td>
+    <td align="center" width="50%">
+        <h3>CodeChef Achievement</h3>
+        <img height="180" src="https://via.placeholder.com/200x220/1a1a1a/fff?text=50+Problems%0ACodeChef" alt="CodeChef 50 Problems Badge"/>
+    </td>
+</tr>
+</table>
+</div>
+
+</br>
+
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
@@ -193,8 +215,3 @@ alt="GitHub Streak" />
 </table>
 
 </div>
-
-
-
-
-
